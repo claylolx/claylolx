@@ -12,7 +12,7 @@ Feel free to reach out if you’d like to connect, collaborate, or have an inter
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergi-mart%C3%ADnez-sanabre-7511182a5/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergi-martinez-sanabre-7511182a5/) 
 
 ---
 
