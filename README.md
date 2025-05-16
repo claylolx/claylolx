@@ -1,13 +1,15 @@
 # 💫 About Me:
 👋 Hi, I'm Sergi!
 
-I recently completed my studies in Web Development after finishing a vocational degree in IT. From a young age, I've been passionate about video games, which sparked my interest in computers and, eventually, programming.
+I'm a Junior Software Engineer from Barcelona.
 
-What I enjoy most about development is the ability to bring ideas to life through code—merging logic and creativity to build useful and visually appealing web experiences.
+In my most recent role, I worked on a real-world SaaS platform, handling API-based data integration and automated file processing. I’ve also supported a tech retail business, troubleshooting hardware/software issues and improving customer systems.
 
-I'm constantly looking to grow as a developer and expand my skillset. I'm particularly interested in frontend technologies and creative coding projects, but I'm also comfortable working across the full stack.
+I enjoy writing clean, maintainable code to solve real-world problems — especially when it comes to data processing, system integration, and backend logic.
 
-Feel free to reach out if you’d like to connect, collaborate, or have an interesting opportunity to share!
+My main tech stack includes JavaScript (Vanilla and Node.js), PHP, C#, and SQL. I’m comfortable using tools like Postman, MySQL Workbench, and Git for backend development and collaboration.
+
+Feel free to connect if you're working on something interesting — or just want to say hi!
 
 ---
 
