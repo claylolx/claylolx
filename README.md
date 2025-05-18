@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi, I'm Sergi!
 
+🌐 Check out my portfolio: [sergimartinez.netlify.app](https://sergimartinez.netlify.app/)
+
 I'm a Junior Software Engineer from Barcelona.
 
 In my most recent role, I worked on a real-world SaaS platform, handling API-based data integration and automated file processing. I’ve also supported a tech retail business, troubleshooting hardware/software issues and improving customer systems.
